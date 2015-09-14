@@ -1,0 +1,6 @@
+add file to an existing repository:
+	1) place the file in the github directory locally
+	2) via github command interface navigate to the github directory and type "git add .",
+	   then type "git commit -m 'First Commit'". The file should be added to the desktop github.
+	3) to add it to GitHub type: "git push origin master". Please note that "origin" is the name of the repository. this repository has to exists
+	   on both sides: desktop version and remote version
